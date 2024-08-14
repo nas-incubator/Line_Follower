@@ -18,13 +18,10 @@ This repository contains the code and setup instructions for a line follower rob
   2. Select your board and port: In the Arduino IDE, go to Tools > Board and select your Arduino board. Then, go to Tools > Port and select the correct port for your Arduino.
   3. Upload the code: Click the upload button (right arrow) in the Arduino IDE to compile and upload the code to your Arduino board.
 
-*Usage
-  Once the code is uploaded, the 8-bit LED module should start running the sequence described in the loop function. Each LED will light up in sequence with a delay of 500 milliseconds between each step.
-
 *Contributing
   If you would like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions are welcome!
 
 *Contact
-  For any questions or suggestions, please feel free to open an issue or contact me at nasincubator@gmail.com.com or whatsapp us at +91 95990 63468/ 8920562814
+  For any questions or suggestions, please feel free to open an issue or contact me at nasincubator@gmail.com.com or WhatsApp us at +91 95990 63468/ 8920562814
 
-By following these instructions, you should be able to successfully control an 8-bit LED module with your Arduino board. Happy coding!
+By following these instructions, you should be able to successfully control a Line Follower Bot with your Arduino board. Happy coding!
